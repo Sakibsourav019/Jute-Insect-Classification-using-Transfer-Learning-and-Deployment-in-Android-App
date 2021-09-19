@@ -1,0 +1,4 @@
+0 উরচুঙ্গা পোকা_Field Cricket
+1 চেলে পোকা_Jute Stem Weevil
+2 বিছা পোকা_Spilosoma Obliqua
+3 হলুদ মাকড়_Yellow Mite
